@@ -20,3 +20,16 @@ James is looking for a podcast, which will keep him up-to-date during the Chicag
 He dislikes the mainstream sports radio personalities, who aren't covering the Chicago Bears avidly and speak badly about the team. He wants a objective but informed perspective of the Bears team on a bi-weekly basis.
 ## Motivations
 When James knows more about the Bears, he's in a happy mood. James, also loves food and tailgating before games 
+# Jim 
+## Bio
+Jim is a distinguished sports journalist and radio personality in sports radio. He has held an illustrius career, holding positions at ESPN and CBS radio.
+# Goals
+Jim goals are always to engage his radio listenes with compelling and thought provoking content.
+## Frustration
+Jim is often frustrated when he doesn't have a in-depth persepective to look to when he's covering a local team topic. He often doesn't have reliable sources to run to for beat coverage. 
+## Motivations
+Jim wants to remain as one of the top listened to sports radio personalities in the nation. 
+# Features of the Sports Network
+## Notifications when a new shows are uploaded online
+Bi-Weekly podcast
+## Interview local sports athletes and entrepreneurs
