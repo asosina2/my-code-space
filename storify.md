@@ -1,7 +1,7 @@
 # 3 Personas
-## Sports Podcast Lover ! [podcast listener] (ms-podcast-listener-shutterstock-414203668.png)
-## Crazy Sports Fan ! [Crazy fan] (crazy-bears-fan.jpg)
-## Competing Sports podcaster ! [jim rome] (jim-rome.jpg)
+## Sports Podcast Lover ! [podcast listener] (OneDrive/Documents/ms-podcast-listener-shutterstock-414203668.png)
+## Crazy Sports Fan ! [Crazy fan] (OneDrive/Documents/crazy-bears-fan.jpg)
+## Competing Sports podcaster ! [jim rome] (OneDrive/Documents/jim-rome.jpg)
 # David 
 ## Bio 
 David loves listening to sports podcast each day, during his bike rides. He is a DePaul University college student majoring in Journalism. He loves sports podcast which are entertaining and funny.
