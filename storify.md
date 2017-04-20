@@ -1,6 +1,6 @@
 # 3 Personas
 ## Sports Podcast Lover ! [podcast listener] (ms-podcast-listener-shutterstock-414203668.png)
-## Crazy Sports Fan ! [Crazy fan] (crazy-bears-fan.jpg)
+## Crazy Sports Fan ! [Crazy fan] (https://github.com/asosina2/my-code-space/blob/master/crazy-bears-fan.jpg)
 ## Competing Sports podcaster ! [jim rome] (jim-rome.jpg)
 # David 
 ## Bio 
